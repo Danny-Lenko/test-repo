@@ -6,3 +6,6 @@ description to be added.
 
 Testing the local and remote repositories interaction
 
+## Branching
+
+Testing branching functionality and commands
